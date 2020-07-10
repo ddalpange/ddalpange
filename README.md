@@ -62,7 +62,7 @@
 
 ## 📖 Studies
 
-- Simple Memo](https://github.com/ddalpange/simple-memo)
+- [Simple Memo](https://github.com/ddalpange/simple-memo)
 
 ## 🖥 Tech Stack
 
