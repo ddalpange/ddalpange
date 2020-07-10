@@ -1,10 +1,8 @@
 ## 👨🏻‍💻 Intro
 
-<div style="padding: 0 32px;">
-    <img src="https://ddalpange.github.io/images/profile.jpeg" style="display:block; margin: 0 auto; border-radius: 300px; max-width: 100px;" class="not-gallery-item">
-    <div style="text-align: center;">**Yohan Kim**</div>
-</div>
+![Profile](https://ddalpange.github.io/images/profile.jpeg)
 
+**Yohan Kim**
 
 자면서 돈버는게 꿈입니다. 달팽이를 좋아합니다. 달팽이는 자기 집이 있어서 부럽습니다.
 
