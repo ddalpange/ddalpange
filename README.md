@@ -1,8 +1,6 @@
 ## 👨🏻‍💻 Intro
 
-![Profile](https://ddalpange.github.io/images/profile.jpeg)
-
-**Yohan Kim**
+****
 
 자면서 돈버는게 꿈입니다. 달팽이를 좋아합니다. 달팽이는 자기 집이 있어서 부럽습니다.
 
@@ -52,34 +50,21 @@
 
 ## 🚀 Projects
 
-### [클래스101](https://class101.net)
-
-### [Knowru](https://www.knowru.com)
-
-### [Oowa](https://oowa.io)
-
-### [Knowru Limited](https://www.knowrulimited.com)
-
-### [AI Interview](https://www.ai-interview.com)
-
-### 트래블하우 [PC](https://www.travelhow.com), [Mobile](https://m.travelhow.com), [Biz](https://biz.travelhow.biz)
+- [클래스101](https://class101.net)
+- [Knowru](https://www.knowru.com)
+- [Oowa](https://oowa.io)
+- [Knowru Limited](https://www.knowrulimited.com)
+- [AI Interview](https://www.ai-interview.com)
+- 트래블하우 [PC](https://www.travelhow.com), [Mobile](https://m.travelhow.com), [Biz](https://biz.travelhow.biz)
 
 ## 🎨 Contributions
 
 - [Tui Chart](https://github.com/nhnent/tui.chart)
 - [Hexo Minos](https://github.com/ppoffice/hexo-theme-minos)
 
-<br/>
-
 ## 📖 Studies
 
-### [Simple Memo](https://github.com/ddalpange/simple-memo)
-
-**Ionic**, **Angular**, **Firebase**
-Ionic, Angular, Firebase 를 이용하여 만드는 간단한 메모장입니다.
-
-
-<br/>
+- Simple Memo](https://github.com/ddalpange/simple-memo)
 
 ## 🖥 Tech Stack
 
