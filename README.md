@@ -49,6 +49,8 @@
 ## 🚀 Projects
 
 - [클래스101](https://class101.net)
+- [클래스101 UI](https://ui.class101.dev/)
+- [클래스101 기술 블로그](https://class101.dev/)
 - [Knowru](https://www.knowru.com)
 - [Oowa](https://oowa.io)
 - [Knowru Limited](https://www.knowrulimited.com)
