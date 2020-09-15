@@ -55,8 +55,8 @@
 
 ## 🕹 Teck Stack
 
-React, Redux, Mobx, Context, React Hooks, CSS in JS, SSR, Angular, RxJS, NgRX, Vue, Vuex, AngularJS, Jquery, Vanila Javascript, Apollo, Graphql
 
+React(hooks), Angular, Vue, RxJS, Graphql, CSS(bem, css in js)
 
 - 컴포넌트란 무엇인가에 대해 고민하고 개발합니다.
 - Critical Rendering Path와 Event Loop를 알고 그에 대한 최적화를 진행합니다.
