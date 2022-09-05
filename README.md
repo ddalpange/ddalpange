@@ -12,6 +12,14 @@
 
 **소프트웨어 엔지니어**
 
+- Protobuf 기반의 Schema based development
+- 사내 백오피스 구현
+- 사내 라이브러리 번들링 연구 및 개선
+- 제품별 모노레포 작업환경 구성 및 배포 워크플로우 작성
+- Trunk Based Devleopment를 구현하기 위한 일들을 진행
+- 사내외 오픈소스 기여 (Pbkit, Storybook 등)
+- 다수 프로덕트 MVP 구현
+
 
 ### [클래스101](https://class101.net) (2019.03 ~ 2020.06)
 
@@ -47,9 +55,9 @@
 
 - 다양한 차트라이브러리를 활용해 데이터 시각화 작업 (오픈소스 컨트리뷰션)
 - 심플한 소스코드 관리자 설계 (Diff, Versioning 등)
-- RxJS의 스트림과 반응형 프로그래밍에 대해 고민하였음.
+- RxJS의 사용하여 스트림 기반의 반응형 프로그래밍에 대해 고민하였음.
 - WebRTC를 이용한 양방향 영상 통신 구현
-- Gatsby + Bulma 를 통해 회사 소개 사이트 구축, 개자이너가 되었음.
+- Gatsby + Bulma 를 통해 회사 소개 사이트 구축
 
 ### [트래포트](https://m.travelhow.com) (2016.07 ~ 2017.08)
 
@@ -58,25 +66,6 @@
 - 호텔, 액티비티 서비스 아키텍쳐 설계
 - 여행 올인원 커머스 개발
 
-## 🕹 Teck Stack
-
-React(hooks), Angular, Vue, RxJS, Graphql, CSS(bem, css in js)
-
-- 컴포넌트란 무엇인가에 대해 고민하고 개발합니다.
-- Critical Rendering Path와 Event Loop를 알고 그에 대한 최적화를 진행합니다.
-- 호이스팅, 클로저와 같은 옛 개념을 이해하고 있습니다.
-- 3년된 create-react-app(ejected) 프로젝트를 한땀한땀 SSR로 바꾼 적이 있습니다. 
-- 사이트맵, 메타태그, 스키마 등 검색엔진 최적화를 진행한 적이 있습니다.
-- webpack을 익숙하게 다루며 번들러를 이해하고 있습니다.
-- Performance 탭을 통해 어디서 병목이 생기는지 측정할 수 있습니다.
-- Audit 탭을 통해 개선해야할 지표를 정확하게 설정할 수 있습니다.
-- 고정넓이와 브라우저 스크린의 가로폭을 고려하여 이미지를 극한으로 경량시킨 경험이 있습니다.
-- TTI를 단축시키기 위해 번들을 50~100mb 단위로 쪼갠 경험이 있습니다.
-- RxJS의 스트림과 핫/콜드 옵저버블에 대해 이해하고 있습니다.
-- 센트리, 슬랙을 통해 에러 모니터링을 세팅하고 지속적으로 관찰합니다.
-- 모노레포를 셋업하고 관리할 수 있습니다.
-- Graphql (Apollo)를 프로덕션에서 사용해 본 경험이 있습니다.
-- 개발문화 개선에 힘을 쏟습니다. (기술블로그 개설, 면접 랜딩문서 제작)
 
 ## 🚀 Projects
 
@@ -91,12 +80,7 @@ React(hooks), Angular, Vue, RxJS, Graphql, CSS(bem, css in js)
 
 ## 🎨 Contributions
 
-- [Tui Chart](https://github.com/nhnent/tui.chart)
-- [Hexo Minos](https://github.com/ppoffice/hexo-theme-minos)
-
-## 📖 Studies
-
-- [Simple Memo](https://github.com/ddalpange/simple-memo)
+- Pbkit, Storybook, Toolbelt, Tui Chart, Hexo Minos
 
 ## 🔗 Links
 
