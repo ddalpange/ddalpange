@@ -5,14 +5,22 @@
 
 오직 일에만 집중할 수 있는 회사를 찾고 있습니다.
 
+스프린트 기간을 최대한 짧게 하는 것을 좋아하며 데이터 기반으로 일을 하려 노력합니다.
+회복 탄력성이 강하고 가설 검증 기반의 디버깅 능력이 우수합니다.
+이상한 일들을 많이 해서 버그를 많이 만나 몽키 패칭을 잘합니다.
+
 ## 📌 Work Experience
 
 ###  [뤼이드](https://www.riiid.co/ko/main) (2020.11 ~ 2022.11)
 
 **소프트웨어 엔지니어**
-
-- Protobuf 기반의 Schema based development
+- Schema based development
+  - Protobuf 기반으로 webview와 native, server 인터페이스 작성
+  - 스키마 저장소를 분리하여 PR을 통해 api tech spec 논의
+  - 작성된 schema를 통해 대부분의 코드를 기계적으로 생성
+  - Rest HTTP 통신을 사용하는 프로젝트도 Open API Schema를 코드 퍼스트로 생성 후 코드젠 하였음.
 - 사내 백오피스 구현
+  - 공용 컴포넌트, 로직, 컨버터 작성 후 라이브러리로 말아서 배포
   - 공용 어드민 작업 진행
 - 컴파일 / 번들링 방식 연구 및 개선
   - babel 의존성을 제거하고 swc로 컴파일러 교체
@@ -26,6 +34,7 @@
 - 테스트 코드 작성
   - 커버리지 80%를 목표로 유닛테스트 작성
   - E2E 테스트를 위해 Cypress를 셋업하고 QA Engineer 온보딩 진행
+- 3개월 정도 미국 지사에서 영어권 엔지니어들과 협업
 - 사내외 오픈소스 기여 (Pbkit, Storybook 등)
 - 다수 웹뷰 프로덕트 MVP 구현 및 유지보수
 
@@ -75,6 +84,9 @@
 - 호텔, 액티비티 서비스 아키텍쳐 설계
 - 여행 올인원 커머스 개발
 
+## 🎨 Contributions
+
+- Pbkit, Storybook, Toolbelt, Tui Chart, Hexo Minos
 
 ## 🚀 Projects
 
@@ -87,9 +99,6 @@
 - [AI Interview](https://www.ai-interview.com)
 - 트래블하우 [PC](https://www.travelhow.com), [Mobile](https://m.travelhow.com), [Biz](https://biz.travelhow.biz)
 
-## 🎨 Contributions
-
-- Pbkit, Storybook, Toolbelt, Tui Chart, Hexo Minos
 
 ## 🔗 Links
 
