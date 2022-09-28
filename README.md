@@ -26,7 +26,7 @@
 - 컴파일 / 번들링 방식 연구 및 개선
   - babel 의존성을 제거하고 swc로 컴파일러 교체
   - esm, cjs 두 모듈링을 지원하기 위한 작업 진행
-- Trunk Based Devleopment를 구현하기 위한 일들을 진행
+- Trunk Based Development 구현하기 위한 일들을 진행
   - yarn2 + ultra-runner를 사용한 초기 모노레포 셋업
   - pnpm + turbo를 통한 모노레포 개선
   - 모노레포로 변경되면서 발생하는 프로젝트 이슈들 전부 해결
