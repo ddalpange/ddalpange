@@ -14,10 +14,10 @@ ddalpange@gmail.com
 --- 
 
 아래 링크에 자세한 설명이 적혀있습니다. 
-
 https://ddalpange.github.io
 
-## 📌 Work Experience
+---
+Work Experience
 
 - 당근마켓 (2023.04 ~ 현재)
   - **커뮤니티 아파트팀 소프트웨어 엔지니어 (2026.02 ~ )**
