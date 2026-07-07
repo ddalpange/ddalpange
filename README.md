@@ -10,11 +10,8 @@ ddalpange@gmail.com
 - 피드백에 대해 열려있습니다. 세심한 피드백을 주려 노력하고, 사소한 피드백도 놓치지 않으려 주의를 기울입니다.
 - 회복 탄력성이 강하고 가설 검증 기반의 디버깅 능력이 우수합니다.
 - 기둥을 2cm 옮기는 일들을 잘 처리합니다.
+- ![상세 RESUME는 이 링크에서 확인하실 수 있습니다.](https://ddalpange.github.io)
 
---- 
-
-아래 링크에 자세한 설명이 적혀있습니다. 
-https://ddalpange.github.io
 
 ---
 Work Experience
